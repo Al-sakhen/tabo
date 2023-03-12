@@ -1,0 +1,13 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+}
+a.nav-link.active {
+  color: #00b0e4 !important;
+  background-color: bisque;
+  width: fit-content;
+  padding: 7px;
+  border-radius: 15px;
+  transition: all .3s;
+}
